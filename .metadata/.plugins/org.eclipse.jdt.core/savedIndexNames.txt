@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\Users\neybe\Desktop\Alura\.metadata\.plugins\org.eclipse.jdt.core
+633835827.index
+3921786753.index
+3336282885.index
+1865797976.index
+3618164767.index
+4246599859.index
+2701580255.index
+3066348689.index
+2280192727.index
+1393339551.index
+4069024390.index
+1747332059.index
+369311382.index
+2386243311.index
+1696264553.index
+2585873888.index
+3581244290.index
+136124448.index
+1620608168.index
